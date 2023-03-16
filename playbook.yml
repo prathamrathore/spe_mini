@@ -3,6 +3,11 @@
   hosts: all
   tasks:
 
+    - name: Start docker service
+      service:
+        name: docker
+        state: started
+
     - name: pull docker image
       shell: docker pull prathamrathore/spe_mini
 
