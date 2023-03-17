@@ -6,7 +6,7 @@
   <artifactId>spe_mini</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
-
+history\
   <build>
     <plugins>
       <plugin>
