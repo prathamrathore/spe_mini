@@ -1,2 +1,6 @@
 [ubuntu20]
+<<<<<<< HEAD
 127.0.0.1 ansible_ssh_pass=ansible ansible_ssh_user=ansible_usr
+=======
+127.0.0.1 ansible_user=anisble_usr
+>>>>>>> af7438cf0d17764f69f0b2ec513d998f651d5ace
