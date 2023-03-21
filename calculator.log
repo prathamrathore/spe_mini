@@ -1,0 +1,32 @@
+2023-03-21 19:28:08.592 [main] INFO  org.example.App - [SQ ROOT] - 25.0
+2023-03-21 19:28:08.594 [main] INFO  org.example.App - [RESULT - SQ ROOT] - 5.0
+2023-03-21 19:28:08.594 [main] INFO  org.example.App - [SQ ROOT] - 16.0
+2023-03-21 19:28:08.594 [main] INFO  org.example.App - [RESULT - SQ ROOT] - 4.0
+2023-03-21 19:28:08.594 [main] INFO  org.example.App - [SQ ROOT] - 9.0
+2023-03-21 19:28:08.594 [main] INFO  org.example.App - [RESULT - SQ ROOT] - 3.0
+2023-03-21 19:28:08.595 [main] INFO  org.example.App - [SQ ROOT] - 4.0
+2023-03-21 19:28:08.595 [main] INFO  org.example.App - [RESULT - SQ ROOT] - 2.0
+2023-03-21 19:28:08.595 [main] INFO  org.example.App - [SQ ROOT] - 3.0
+2023-03-21 19:28:08.596 [main] INFO  org.example.App - [RESULT - SQ ROOT] - 1.7320508075688772
+2023-03-21 19:28:08.596 [main] INFO  org.example.App - [SQ ROOT] - 4.0
+2023-03-21 19:28:08.596 [main] INFO  org.example.App - [RESULT - SQ ROOT] - 2.0
+2023-03-21 19:28:08.596 [main] INFO  org.example.App - [SQ ROOT] - 81.0
+2023-03-21 19:28:08.596 [main] INFO  org.example.App - [RESULT - SQ ROOT] - 9.0
+2023-03-21 19:28:08.597 [main] INFO  org.example.App - [SQ ROOT] - 36.0
+2023-03-21 19:28:08.597 [main] INFO  org.example.App - [RESULT - SQ ROOT] - 6.0
+2023-03-21 19:28:08.597 [main] INFO  org.example.App - [NATURAL LOG] - 1.0
+2023-03-21 19:28:08.598 [main] INFO  org.example.App - [RESULT - NATURAL LOG] - 0.0
+2023-03-21 19:28:08.598 [main] INFO  org.example.App - [NATURAL LOG] - 1.0
+2023-03-21 19:28:08.598 [main] INFO  org.example.App - [RESULT - NATURAL LOG] - 0.0
+2023-03-21 19:28:08.599 [main] INFO  org.example.App - [POWER - 2.0 RAISED TO] 2.0
+2023-03-21 19:28:08.599 [main] INFO  org.example.App - [RESULT - POWER] - 4.0
+2023-03-21 19:28:08.599 [main] INFO  org.example.App - [POWER - 2.0 RAISED TO] 3.0
+2023-03-21 19:28:08.599 [main] INFO  org.example.App - [RESULT - POWER] - 8.0
+2023-03-21 19:28:08.600 [main] INFO  org.example.App - [POWER - 2.0 RAISED TO] 3.0
+2023-03-21 19:28:08.600 [main] INFO  org.example.App - [RESULT - POWER] - 8.0
+2023-03-21 19:28:08.600 [main] INFO  org.example.App - [POWER - 4.0 RAISED TO] 3.0
+2023-03-21 19:28:08.601 [main] INFO  org.example.App - [RESULT - POWER] - 64.0
+2023-03-21 19:28:08.601 [main] INFO  org.example.App - [NATURAL LOG] - 2.4
+2023-03-21 19:28:08.601 [main] INFO  org.example.App - [RESULT - NATURAL LOG] - 0.8754687373538999
+2023-03-21 19:28:08.602 [main] INFO  org.example.App - [NATURAL LOG] - 2.1
+2023-03-21 19:28:08.602 [main] INFO  org.example.App - [RESULT - NATURAL LOG] - 0.7419373447293773
